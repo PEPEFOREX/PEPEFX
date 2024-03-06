@@ -1,2 +1,2 @@
 # PEPEFX
-Public and updated $PEPEFX repositories for PEPEFOREX
+Public and updated $PEPEFX repository for PEPEFOREX
